@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ashensin.github.io/sitemap
+Sitemap: https://ashensin.github.io/app/sitemap
+Sitemap: https://ashensin.github.io/assets/sitemap
+Sitemap: https://ashensin.github.io/css/sitemap
+Sitemap: https://ashensin.github.io/includes/sitemap
+Sitemap: https://ashensin.github.io/item/sitemap
+Sitemap: https://ashensin.github.io/src/sitemap
